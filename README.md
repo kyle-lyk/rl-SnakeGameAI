@@ -10,7 +10,6 @@ pip install -r requirements.txt
 
 ## Overview of Deep Q Learning
 ![DQN](assets/DQN.png)
-![BE](assets/Bellman_Eqn.png)
 
 ## Demo
 ### Trained for 10 games
